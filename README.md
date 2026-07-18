@@ -69,23 +69,14 @@ The dashboard uses two datasets:
 
 ### Dashboard Overview
 
-(Add Screenshot)
+ <img width="1361" height="732" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/11a9bd8e-431c-4b2e-8993-aff13d5341fd" />
+
 
 ### Sales Analysis
 
-(Add Screenshot)
+ <img width="1347" height="721" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/62f0fefa-b4d6-4e9f-9d02-c3b80f5c2529" />
 
-### Profit Insights
-
-(Add Screenshot)
-
-### Interactive Dashboard
-
-(Add Screenshot)
-
----
-
-## Key Skills Demonstrated
+ ## Key Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -104,8 +95,6 @@ Prem Prakash Maurya
 
 MBA (Finance & Marketing)
 
-LinkedIn:
-(Add Link)
-
-Portfolio:
-(Add Portfolio Link)
+LinkedIn: www.linkedin.com/in/prem-prakash-maurya-finance
+ 
+ 
